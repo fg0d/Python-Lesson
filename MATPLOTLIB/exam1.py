@@ -2,8 +2,6 @@
 #Python3 дээр бичигдсэн гэдгийг илэрхийлж байна.
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar 29 13:24:10 2018
-
 0. install numpy ( sudo apt install python-numpy OR sudo pip install numpy)
 1. install matplotlib (sudo apt install python-matplotlib OR sudo pip install matplotlib)
 """
