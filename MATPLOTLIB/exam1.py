@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
+#Python3 дээр бичигдсэн гэдгийг илэрхийлж байна.
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar 29 13:24:10 2018
